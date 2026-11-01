@@ -6,4 +6,6 @@ Add account connection, and saving to account
 Three dots to hide export options
 Multiple themes
 Modern
-OlderThemes based on pokemonPokedex look for start pageSet of colors to chooseSearch bar
+Older
+Themes based on pokemon
+Pokedex look for start pageSet of colors to chooseSearch bar
