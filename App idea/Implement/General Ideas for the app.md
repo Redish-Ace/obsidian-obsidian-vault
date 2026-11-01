@@ -1,0 +1,2 @@
+Update the raw json
+Put csv button off to the side above everytingFix csv button, delete previous fileRename the appAdd account connection, and saving to accountThree dots to hide export optionsMultiple themesModernOlderThemes based on pokemonPokedex look for start pageSet of colors to chooseSearch bar
