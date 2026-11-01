@@ -8,4 +8,5 @@ Multiple themes
 Modern
 Older
 Themes based on pokemon
-Pokedex look for start pageSet of colors to chooseSearch bar
+Pokedex look for start page
+Set of colors to chooseSearch bar
